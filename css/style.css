@@ -1,0 +1,29 @@
+body{
+    color: black;
+    font-size: 16px;
+    padding-top: 20px;
+}
+.fsection{
+    background: rgb(171, 171, 230);
+    color: white;
+    padding-top: 30px;
+}
+
+.fp{
+    color: black;
+}
+h3{
+    color: rgb(171, 171, 230);
+    font-weight: bold;
+}
+.profilepix {
+    vertical-align: middle;
+  width: 72px;
+  height: 85px;
+  border-radius: 50%;
+  margin: 20px;
+}
+.fiveth{
+    background: rgb(171, 171, 230);
+padding:20px 0 40px;
+}
